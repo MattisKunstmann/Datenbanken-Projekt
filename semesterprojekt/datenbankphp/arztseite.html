@@ -1,0 +1,89 @@
+<?php$db_link = pg_connect("host=127.0.0.1 port=5432 dbname=ersteDB user=postgres password=Besiktas.76");
+
+         if (!$db_link)//Ist ein Fehler bei der Verbindungsherstellung aufgetreten?
+         {
+           die ('...keine Verbindung zum DB-Server möglich: ');
+           echo pg_last_error($db_link);
+         }
+		 ?>
+
+<style type="text/css">		 
+
+ h1,h2
+   {
+      position: relative;
+
+      left: 100px;
+   }
+   a.buton{
+    background:#d21b00;
+    background: -moz-linear-gradient(top, #d21b00, #8e0700);
+    background: -webkit-gradient(linear, left top, left bottom, from(#d21b00), to(#8e0700));        
+    padding:10px 15px;
+    text-decoration:none;
+    color:#fff;
+    font:bold 26px Arial, Helvetica, sans-serif;
+    -moz-border-radius: 7px;
+    -webkit-border-radius: 7px;
+    border-radius: 7px;
+    text-shadow: 0 -1px 1px rgba(0, 0, 0, 0.75);
+    border:5px solid #fff;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.75);    
+}
+
+a.buton:hover{
+    background: -moz-linear-gradient(top, #8e0700, #d21b00);
+    background: -webkit-gradient(linear, left top, left bottom, from(#8e0700), to(#d21b00));
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.75);
+    box-shadow: 0 -1px 2px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0 -1px 2px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: 0 -1px 2px rgba(0, 0, 0, 0.75);    
+}
+
+  a.buton
+   {
+      position: relative;
+
+      left:50px;
+	  bottom:-200px;
+   }
+   .bild
+   {
+position:absolute;
+      left:700px;
+	  bottom:20px;
+
+</style>
+<html>
+<head>
+<meta charset="UTF-8">
+</head>
+<body background="arztlogo.jpg">
+<div id="arzt">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h1><font color="white">WILLKOMMEN!!!</font></h1>
+<h2><font color="white">Sie können in diesem Web Seite über Patienten Information bekommen und Neue Patientakte hinzufügen...</font></h2>
+<br>
+      
+	  
+ <a href="listfurarzt.php" class="buton">Information über Patienten</a> 
+ <br>
+ <br>
+ <br>
+ <a href="insertfürarzt.php" class="buton">Neue Patientakte</a>
+ <br>
+</form>
+</div>
+ <div class="bild">
+	   <img src="arztbild.jpg" alt="bild">
+	   </div>
+</body>
+</html>

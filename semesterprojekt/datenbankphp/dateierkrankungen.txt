@@ -1,0 +1,21 @@
+A00-A09	  Infektiöse Darmkrankheiten
+A15-A19   Tuberkulose
+A20-A28   Bestimmte bakterielle Zoonosen
+A30-A49   Sonstige bakterielle Krankheiten
+A50-A64   Infektionen, die vorwiegend durch Geschlechtsverkehr übertragen werden
+A65-A69   Sonstige Spirochätenkrankheiten
+A70-A74   Sonstige Krankheiten durch Chlamydien
+A75-A79   Rickettsiosen
+A80-A89   Virusinfektionen des Zentralnervensystems
+A90-A99   Durch Arthropoden übertragene Viruskrankheiten und virale hämorrhagische Fieber
+B00-B09   Virusinfektionen, die durch Haut- und Schleimhautläsionen gekennzeichnet sind
+B15-B19   Virushepatitis
+B20-B24   HIV-Krankheit [Humane Immundefizienz-Viruskrankheit]
+B25-B34   Sonstige Viruskrankheiten
+B35-B49   Mykosen
+B50-B64   Protozoenkrankheiten
+B65-B83   Helminthosen
+B85-B89   Pedikulose [Läusebefall], Akarinose [Milbenbefall] und sonstiger Parasitenbefall der Haut
+B90-B94   Folgezustände von infektiösen und parasitären Krankheiten
+B95-B98   Bakterien, Viren und sonstige Infektionserreger als Ursache von Krankheiten, die in anderen Kapiteln klassifiziert sind
+B99-B99   Sonstige Infektionskrankheiten

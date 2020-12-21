@@ -1,0 +1,37 @@
+					
+Geschlecht 	Name	Vorname		Geb.	        Eltern	        Todestag
+Männlich	Schulz	Heinrich	09.06.00	Rolf/Marita	12.08.73
+Männlich	Schulz	Theodor		01.03.24	Heinrich/Sophie	04.05.94
+Weiblich	Kranz	Lena		05.06.25	Heinrich/Sophie	16.07.97
+Weiblich	Müller	Karin		22.07.35	Heinrich/Sophie	
+Männlich	Schulz	Dirk		02.08.33	Heinrich/Sophie	21.09.12
+Männlich	Schulz	Jens		01.11.50	Dirk/Renate	
+Weiblich	Schulz	Anita		03.04.52	Dirk/Renate	05.08.05
+Männlich	Schulz	Luca		22.09.54	Dirk/Renate	
+Männlich	Müller	David		16.04.52	Jan/Karin	
+Weiblich	Müller	Claudia		15.09.50	Jan/Karin	
+Männlich	Kranz	Manfred		11.02.53	Günther/Lena	09.10.88
+Männlich	Schulz	Rainer		18.01.50	Theodor/Bettina	14.07.90
+Männlich	Schulz	Florian		27.04.55	Theodor/Bettina	
+Männlich	Schulz	Tim		26.06.80	Jens/Susi	
+Weiblich	Zimmer	Anna		02.01.83	Jens/Susi	
+Männlich	Schulz	Alan		22.05.80	Luca/Petra	
+Männlich	Schulz	Tommy		17.08.85	Luca/Petra	
+Männlich	Schulz	Thomas		04.02.88	Luca/Petra	
+Männlich	Müller	Max		11.06.87	Tim/Claudia	
+Weiblich	Kranz	Nicole		03.12.83	Manfred/Sabine 	
+Weiblich	Petersen Sarah		11.09.75	Manfred/Sabine 	
+Männlich	Kranz	Henry		03.03.80	Manfred/Sabine 	
+Männlich	Schulz	Lucas		04.07.84	Florian/Kathrin 02.11.04
+Weiblich	Müller	Laura	08.04.02	Tim/Sylvia	
+Männlich	Schulz	Martin	03.07.05	Tim/Sylvia	
+Männlich	Martins Matthias12.05.03	Marcos/Anna	
+Männlich	Schulz	Thorsten20.08.05	Tommy/Maike 	
+Weiblich	Zimmer	Anne	18.12.08	Tommy/Maike 	
+Männlich	Schulz	Paul	11.10.06	Thomas/Monika	
+Männlich	Schulz	Antonio	09.06.09	Thomas/Monika	
+Weiblich	Müller	Lisa	25.11.09	Max/Gabi	
+Weiblich	Petersen Marie	30.10.01	Franz/Nicole	
+Weiblich	Schmidt	Miriam	28.06.07	Henry/Isabelle	
+Männlich	Kranz	Michael	01.11.08	Henry/Isabelle	
+Männlich	Kranz	Sebastian28.12.09	Henry/Isabelle	
